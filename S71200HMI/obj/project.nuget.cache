@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZwYoxuefp+ulT4/JNEGularWFfBquRP1dYAs/23gLUG//b+a2kFrWW9ytcWFm3bmP6kVve8Y5weA1NXDsM2EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nkuthalo.makonco\\Documents\\vb\\30-10-23\\s7netplus-main\\S71200HMI\\S71200HMI.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nkuthalo.makonco\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
